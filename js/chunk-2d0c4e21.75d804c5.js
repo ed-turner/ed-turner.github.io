@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4e21"],{"3d71":function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("section",[n("h1",[e._v("Best Practices Within Data Science - From A Software Development Perspective")])])}],i=n("2877"),s={},a=Object(i["a"])(s,c,r,!1,null,null,null);t["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0c4e21.75d804c5.js.map
